@@ -4,7 +4,7 @@ A simple web application to browse and view details of convergent cars. Built wi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 convergent-car-dealership/
@@ -25,14 +25,14 @@ convergent-car-dealership/
 
 ---
 
-## 🚀 Features
+## Features
 
 - View cars sorted by price (lowest to highest).
 - Click on a car to see detailed information.
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 ### 1. Clone the repository
 ```bash
@@ -64,7 +64,7 @@ Frontend will be running at: `http://localhost:3000/`
 
 ---
 
-## 🛠️ API Endpoints
+## API Endpoints
 
 The backend fetches data from the API hosted at `https://dealership.naman.zip`. Key API endpoints include:
 
@@ -73,7 +73,7 @@ The backend fetches data from the API hosted at `https://dealership.naman.zip`. 
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 
