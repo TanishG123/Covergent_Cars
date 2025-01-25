@@ -36,7 +36,7 @@ convergent-car-dealership/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/convergent-car-dealership.git
+git clone https://github.com/TanishG123/Covergent_Cars.git
 cd convergent-car-dealership
 ```
 
